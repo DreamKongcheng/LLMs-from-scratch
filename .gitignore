@@ -351,3 +351,6 @@ cython_debug/
 .pixi
 *.egg-info
 
+# Local study files
+/Building LLMs From Scratch.pdf
+/ch02/04_bonus_dataloader-intuition/number-data.txt

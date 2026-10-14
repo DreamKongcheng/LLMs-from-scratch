@@ -1,0 +1,2 @@
+# Notebook-aware diff and merge
+*.ipynb diff=jupyternotebook merge=jupyternotebook
